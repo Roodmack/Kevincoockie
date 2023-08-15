@@ -1,1 +1,1 @@
-Get-Service |Select-Object -First 10 # Conflict soon
+Get-Service |Select-Object -First 10 |Format-List
